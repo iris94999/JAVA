@@ -1,0 +1,11 @@
+import java.io.*;
+public class TestLineNumbering {
+
+	public static void main(String[] args) 
+	{
+		File file=new File(args[0]);//读取命令行参数
+		
+
+	}
+
+}
